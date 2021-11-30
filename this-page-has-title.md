@@ -23,7 +23,7 @@ Here is some text with an image below 👇
 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211130T155612Z&X-Amz-Expires=3600&X-Amz-Signature=8a29601cdb84489bda54bb4be9e1cebc0a832968773eebf5dc2074b82ae7f517&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211130T155701Z&X-Amz-Expires=3600&X-Amz-Signature=a98e28668314cffe910b0a075d14c43628d6f5d5448e4107f96886ba54cfc33e&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 * Let's see what happens with lists
