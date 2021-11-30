@@ -1,10 +1,29 @@
+---
+title: This page has a title
+Subtitle: And a subtitle
+Last edit: 2021-11-30T15:39:00.000Z
+Slug: this-page-has-title
+Deploy: true
+Created: 2021-11-30T11:14:00.000Z
+Author:
+  object: user
+  id: 790f2155-7854-47df-8f37-48a119c07aa2
+  name: Etiene Dalcol
+  avatar_url: https://s3-us-west-2.amazonaws.com/public.notion-static.com/94f61eb6-d1c1-459d-afce-e02116a047cf/profile.jpg
+  type: person
+  person:
+    email: e.dacruzdalcol@se17.qmul.ac.uk
+Tags: []
+
+---
+
 
 ## A header :) 
 Here is some text with an image below 👇
 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211130T150847Z&X-Amz-Expires=3600&X-Amz-Signature=9fce801ca2518de006bc26232d75831266f27b604b72308425b62586f552c19e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211130%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211130T155055Z&X-Amz-Expires=3600&X-Amz-Signature=939e9c9cd0c4f24d6f6cef4fc5ba5df17e024e558a3aeb805c31d428209194ef&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 * Let's see what happens with lists
