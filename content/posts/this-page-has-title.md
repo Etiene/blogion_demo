@@ -12,7 +12,7 @@ Created: 2021-12-02T13:52:00.000Z
 Author: null
 Tags: []
 draft: false
-date: 2021-11-2 17:45:00 0
+date: 2021-11-2 17:46:00 0
 
 ---
 
@@ -21,7 +21,7 @@ date: 2021-11-2 17:45:00 0
 
 </div><div style="flex-flow: row wrap; align-items: center; justify-content: space-around;"
 <figure class="image">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211202T174548Z&X-Amz-Expires=3600&X-Amz-Signature=388eae01b5057bdfbff34d91b75ca306203441fdb08fa15a8b6a53df0ab4fda5&X-Amz-SignedHeaders=host&x-id=GetObject" alt="adding a [caption](https://etiene.net) to the picture" width: 100px>
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211202%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211202T174624Z&X-Amz-Expires=3600&X-Amz-Signature=2521bfb0d4ca494a503c11d13ad2ba1d6ffe47a0c3153289a14bb67ec34a284d&X-Amz-SignedHeaders=host&x-id=GetObject" alt="adding a [caption](https://etiene.net) to the picture" width: 100px>
 <figcaption>adding a [caption](https://etiene.net) to the picture</figcaption>
 </figure>
     </div><div style="flex-flow: row wrap; align-items: center; justify-content: space-around;"[a link](http://etiene.net)
