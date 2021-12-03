@@ -12,7 +12,7 @@ Created: 2021-11-30T11:14:00.000Z
 Author: null
 Tags: []
 draft: false
-date: 2021-11-3 17:54:00 0
+date: 2021-11-3 17:57:00 0
 
 ---
 
@@ -23,8 +23,8 @@ Here is some text with an image below 👇
 
 
 <figure class="image">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T175417Z&X-Amz-Expires=3600&X-Amz-Signature=9de571b56d42f829382c3d572d9ada26e5bcd8b691cb7658548652da96f5e0fb&X-Amz-SignedHeaders=host&x-id=GetObject" alt="<span style="white-space: pre-wrap;">adding a caption to the picture</span>" width="96px">
-<figcaption><span style="white-space: pre-wrap;">adding a caption to the picture</span></figcaption>
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfaf50d5-439f-4e58-933f-0d8982555f6d/21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211203T175710Z&X-Amz-Expires=3600&X-Amz-Signature=5364680182425dc4b9aa348d7262711c3c37cdfe72cd0cd32fb0f76c9d44016b&X-Amz-SignedHeaders=host&x-id=GetObject" alt="adding a caption to the picture" width="96px">
+<figcaption>adding a caption to the picture</figcaption>
 </figure>
 
 * Let's see what happens with lists
