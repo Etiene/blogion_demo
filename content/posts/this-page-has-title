@@ -1,0 +1,39 @@
+---
+title: Simple
+Subtitle: And a subtitle
+favicon: ""
+images_path: images/
+Last edit: 2021-12-05T06:03:00.000Z
+slug: this-page-has-title
+path: content/posts/
+icon: 🥰
+Deploy: null
+layout: ""
+Created: 2021-12-02T13:52:00.000Z
+Author: null
+Tags: []
+draft: false
+date: 2021-11-5 6:33:00 0
+
+---
+
+<div id="0fb53ff4-e4f9-4a8e-b11a-9d2ccb4993fc">
+  <div class="column_list" style="display: flex; flex-wrap: wrap;">
+  <div class="column" style=" width: calc((100% - 46px) * 0.5); word-break: break-word;">
+  <div id="bb226289-e55a-4bf7-8f80-ae0081b1cbf1">
+  <figure class="image">
+<img src="/images/this-page-has-title/1.png" alt="adding a caption,a,http://aaaa.com to the picture" width="144px">
+<figcaption><span style="white-space: pre-wrap;">adding a <a href="http://aaaa.com">caption</a> to the picture</span></figcaption>
+</figure>
+</div>
+</div><div class="column" style="margin-left: 46px; width: calc((100% - 46px) * 0.5); word-break: break-word;">
+  <div id="31967124-95cd-47ab-9b58-25e8f78f2710">
+  <div class="block block--text ">
+  <span style="white-space: pre-wrap;">a text and image in column</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
